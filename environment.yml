@@ -1,0 +1,15 @@
+name: 454-project-env
+channels:
+  - conda-forge
+dependencies:
+  - discretize=0.11.1
+  - git
+  - ipywidgets
+  - jupyter
+  - numpy=2.0.2
+  - pymatsolver
+  - python=3.11
+  - scipy=1.15.0
+  - simpeg=0.23.0
+  - matplotlib
+  - choclo 
