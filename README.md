@@ -44,3 +44,10 @@ OR
 3. **[environment.yml](environment.yml)** 
  Environment file, necessary for running notebooks.
 
+Figures and information is cited where used; code uses CMIP6 datasets, particularly the contributions from PMIP4. For further informaiton on the PMIP4 project, see links below:
+
+PMIP4 Webpage:
+https://pmip4.lsce.ipsl.fr/doku.php
+
+Citation and link for main paper considered in this project:
+Otto-Bliesner, B. L., Braconnot, P., Harrison, S. P., Lunt, D. J., Abe-Ouchi, A., Albani, S., Bartlein, P. J., Capron, E., Carlson, A. E., Dutton, A., Fischer, H., Goelzer, H., Govin, A., Haywood, A., Joos, F., LeGrande, A. N., Lipscomb, W. H., Lohmann, G., Mahowald, N., . . . Zhang, Q. (2017). The PMIP4 contribution to CMIP6 – Part 2: Two interglacials, scientific objective and experimental design for Holocene and Last Interglacial simulations. Geoscientific Model Development, 10(11), 3979–4003. https://doi.org/10.5194/gmd-10-3979-2017
