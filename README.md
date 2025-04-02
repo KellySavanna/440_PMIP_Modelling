@@ -6,7 +6,7 @@
 
 ## Project objective
 
-To compare and analyse the seasonal variations in precipitation between the PMIP Last Interglacial (LIG) and Mid-Holocene (MH), and modern day (PICONTROL) experiments with a specific focus on the depiction of global monsoon patterns. The project will explore how these models simulate monsoon behaviour and what this implies for future climate scenarios under ongoing climate change.
+To compare and analyse the seasonal variations in precipitation between the PMIP Last Interglacial (LIG) and Mid-Holocene (MH), and modern day (PAST1000) experiments with a specific focus on the depiction of global monsoon patterns. The project will explore how these models simulate monsoon behaviour and what this implies for future climate scenarios under ongoing climate change.
 
 ### Using the code
 
