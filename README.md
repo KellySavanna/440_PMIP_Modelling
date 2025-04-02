@@ -24,7 +24,7 @@ conda env create -f environment.yml
 ```
 3. Activate environment
 ```bash
-conda activate e440
+conda activate env_440
 ```
 ### Running notebooks
 
