@@ -595,4 +595,4 @@ dependencies:
       - pygmt==0.13.0
       - xclim==0.55.1
       - yamale==6.0.0
-prefix: /Users/kellybaker/anaconda3
+
