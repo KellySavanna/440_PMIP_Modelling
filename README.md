@@ -30,7 +30,7 @@ conda activate env_440
 
 1. Open the jupyter notebook, follow and/or run cells to see how it works.
 ```bash
-jupyter notebook produce_figures.ipynb
+jupyter lab produce_figures.ipynb
 ```
 OR
 
