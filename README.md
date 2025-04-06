@@ -1,4 +1,4 @@
-# Comparing Seasonal Variations in Temperature and Precipitation in PMIP LIG and MH Simulations: Implications for Monsoon Patterns under Climate Change
+# Interpretation and comparison of interglacial PMIP experiments with Pre-Industrial piControl.
 
 *Final project for EOS 440, UBC*
 
@@ -6,7 +6,7 @@
 
 ## Project objective
 
-To compare and analyse the seasonal variations in precipitation between the PMIP Last Interglacial (LIG) and Mid-Holocene (MH), and modern day (PAST1000) experiments with a specific focus on the depiction of global monsoon patterns. The project will explore how these models simulate monsoon behaviour and what this implies for future climate scenarios under ongoing climate change.
+To compare and analyse the seasonal variations in precipitation and temperature between the PMIP Last Interglacial (LIG) and Mid-Holocene (MH), and Pre-Industrial (piControl) experiments with a focus on the depiction of global monsoon patterns and artic amplification. The project will explore how these variables respond to the variations in initial paramaters, such as orbital conifgurations and GHG levels, and what this implies for future climate scenarios under ongoing climate change.
 
 ### Using the code
 
