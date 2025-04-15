@@ -1,4 +1,4 @@
-# Comparing Seasonal Variations in Temperature and Precipitation in PMIP LIG and MH Simulations: Implications for Monsoon Patterns under Climate Change
+# Interpretation and comparison of interglacial PMIP experiments with Pre-Industrial piControl.
 
 *Final project for EOS 440, UBC*
 
@@ -6,7 +6,7 @@
 
 ## Project objective
 
-To compare and analyse the seasonal variations in precipitation between the PMIP Last Interglacial (LIG) and Mid-Holocene (MH), and modern day (PAST1000) experiments with a specific focus on the depiction of global monsoon patterns. The project will explore how these models simulate monsoon behaviour and what this implies for future climate scenarios under ongoing climate change.
+To compare and analyse the seasonal variations in precipitation and temperature between the PMIP Last Interglacial (LIG) and Mid-Holocene (MH), and Pre-Industrial (piControl) experiments with a focus on the depiction of global monsoon patterns and artic amplification. The project will explore how these variables respond to the variations in initial paramaters, such as orbital conifgurations and GHG levels, and what this implies for future climate scenarios under ongoing climate change.
 
 ### Using the code
 
@@ -28,13 +28,11 @@ conda activate env_440
 ```
 ### Running notebooks
 
-1. Open the jupyter notebook, follow and/or run cells to see how it works.
+Open the jupyter notebook, follow and/or run cells to produce the primary and supplementary figures for this project.
 ```bash
 jupyter lab produce_figures.ipynb
 ```
-OR
 
-2.  View figures without running code:  !! WIP !!
 
 ### Important Files 
 
@@ -48,6 +46,10 @@ Figures and information is cited where used; code uses CMIP6 datasets, particula
 
 PMIP4 Webpage:
 https://pmip4.lsce.ipsl.fr/doku.php
+
+The Climate Laboratory - EOS440 course handbook, adapted from the ATM 623: Climate Modeling at the University at Albany:
+https://phaustin.github.io/climate_students_eoas/home.html
+https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019/
 
 Citation and link for main paper considered in this project:
 Otto-Bliesner, B. L., Braconnot, P., Harrison, S. P., Lunt, D. J., Abe-Ouchi, A., Albani, S., Bartlein, P. J., Capron, E., Carlson, A. E., Dutton, A., Fischer, H., Goelzer, H., Govin, A., Haywood, A., Joos, F., LeGrande, A. N., Lipscomb, W. H., Lohmann, G., Mahowald, N., . . . Zhang, Q. (2017). The PMIP4 contribution to CMIP6 – Part 2: Two interglacials, scientific objective and experimental design for Holocene and Last Interglacial simulations. Geoscientific Model Development, 10(11), 3979–4003. https://doi.org/10.5194/gmd-10-3979-2017
