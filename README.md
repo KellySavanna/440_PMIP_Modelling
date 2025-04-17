@@ -1,8 +1,8 @@
 # Interpretation and comparison of interglacial PMIP experiments with Pre-Industrial piControl.
 
-*Final project for EOS 440, UBC*
+*Final project for EOS 440, UBC - Climate Modelling*
 
-*Please note: '!! WIP !!' means work in progress and not to be conisdered complete at this time.*
+
 
 ## Project objective
 
